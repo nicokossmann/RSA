@@ -10,7 +10,7 @@ Implementierung der Lehrbuch RSA-Verschlüsselung
 
 ## Motivation
 
-Zur Ergänzung der Lecture Notes im Modul *Grundlagen der IT-Sicherheit* habe ich ein Tool erstellt, welches die verschiedenen Schritte der Lehrbuch RSA-Verschlüsselung veranschaulichen soll. Dabei orientiert sich die Implementierung grob an dem Algorithmen des [Matheprismas](#nützliche-links) der Universität Wuppertal.
+Zur Ergänzung der Lecture Notes im Modul *Grundlagen der IT-Sicherheit* habe ich ein Tool erstellt, welches die verschiedenen Schritte der Lehrbuch RSA-Verschlüsselung veranschaulichen soll. Dabei orientiert sich die Implementierung grob an den Algorithmen des [Matheprismas](#nützliche-links) der Universität Wuppertal.
 
 ## Nutzung
 Zum herunterladen:
