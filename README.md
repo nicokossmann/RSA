@@ -16,6 +16,7 @@ Zur Ergänzung der Lecture Notes im Modul *Grundlagen der IT-Sicherheit* habe ic
 Zum herunterladen:
 ````
 $ git clone https://github.com/nicokossmann/RSA
+$ cd RSA
 $ python rsa.py
 ````
 
